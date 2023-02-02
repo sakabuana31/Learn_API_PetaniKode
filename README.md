@@ -1,7 +1,6 @@
 # LEARN API FROM PETANIKODE
 
 <div id="header" align="center">
-
   <img src="https://media.giphy.com/media/VhPrja0yLYBrm7WP4P/giphy.gif" width="100"/>
 </div>
 
